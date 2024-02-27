@@ -1,6 +1,6 @@
 # BACKGROUND CHANGER
 
-A practical background changer for you to blur out any background debris in your photo.
+A practical background changer for you to cut out any background debris in your photo.
 
 ## LIBRARIES
 
