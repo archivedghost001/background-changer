@@ -1,10 +1,12 @@
 # BACKGROUND CHANGER
 
-A practical background changer for you to blur out any background debris in your photo.
+A practical background changer for you to blur out any background debris in your photo and changing background color.
 
 ## LIBRARIES
 
 - requests
+- datetime
+- sys
 
 ## LICENSES
 
